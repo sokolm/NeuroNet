@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model>
+    <schema>
+        <layer height="30" id="0" type="ordinary" width="20" x="10" y="40"/>
+    </schema>
+</model>

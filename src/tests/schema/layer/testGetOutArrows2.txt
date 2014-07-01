@@ -1,0 +1,1 @@
+OK:exception, we try to add 1 connectionSchema to unmodifauble collection

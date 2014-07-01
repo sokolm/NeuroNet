@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <size neuronsNumber="1" time="6"/>
+    <time>
+        <neuron number="0.0"/>
+        <neuron number="1.0"/>
+        <neuron number="2.0"/>
+        <neuron number="3.0"/>
+        <neuron number="4.0"/>
+    </time>
+    <time>
+        <neuron number="0.0"/>
+        <neuron number="1.0"/>
+        <neuron number="2.0"/>
+        <neuron number="3.0"/>
+        <neuron number="4.0"/>
+    </time>
+    <time>
+        <neuron number="0.0"/>
+        <neuron number="1.0"/>
+        <neuron number="2.0"/>
+        <neuron number="3.0"/>
+        <neuron number="4.0"/>
+    </time>
+    <time>
+        <neuron number="0.0"/>
+        <neuron number="1.0"/>
+        <neuron number="2.0"/>
+        <neuron number="3.0"/>
+        <neuron number="4.0"/>
+    </time>
+    <time>
+        <neuron number="0.0"/>
+        <neuron number="1.0"/>
+        <neuron number="2.0"/>
+        <neuron number="3.0"/>
+        <neuron number="4.0"/>
+    </time>
+    <time>
+        <neuron number="0.0"/>
+        <neuron number="1.0"/>
+        <neuron number="2.0"/>
+        <neuron number="3.0"/>
+        <neuron number="4.0"/>
+    </time>
+</data>

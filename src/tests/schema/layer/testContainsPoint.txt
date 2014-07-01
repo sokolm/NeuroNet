@@ -1,0 +1,22 @@
+The neuroNet description:
+The layer description:
+Num neurons: 1
+id layer =0
+the layer coordinates: 10 20
+the layer size: 10 20
+out arrows:
+input arrows:
+Activation function: linear
+
+OK
+OK
+OK
+OK
+OK
+OK
+OK
+Errow in Point: x = 40 y = 10
+OK
+OK
+OK
+OK

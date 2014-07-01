@@ -1,0 +1,163 @@
+The neuroNet description:
+The layer description:
+Num neurons: 1
+id layer =1
+the layer coordinates: 14 20
+the layer size: 30 40
+out arrows:
+the out arrow:
+The arrow description:
+delay: 0
+type of the arrow direct: true
+the arrow source node:
+the source coordinates: 14 20
+the arrow dest node:
+the dest coordinates: 15 20
+
+input arrows:
+Activation function: linear
+
+The layer description:
+Num neurons: 1
+id layer =2
+the layer coordinates: 15 20
+the layer size: 30 40
+out arrows:
+the out arrow:
+The arrow description:
+delay: 0
+type of the arrow direct: true
+the arrow source node:
+the source coordinates: 15 20
+the arrow dest node:
+the dest coordinates: 16 20
+
+input arrows:
+the input arrow:
+The arrow description:
+delay: 0
+type of the arrow direct: true
+the arrow source node:
+the source coordinates: 14 20
+the arrow dest node:
+the dest coordinates: 15 20
+
+Activation function: linear
+
+The layer description:
+Num neurons: 1
+id layer =3
+the layer coordinates: 16 20
+the layer size: 30 40
+out arrows:
+the out arrow:
+The arrow description:
+delay: 0
+type of the arrow direct: true
+the arrow source node:
+the source coordinates: 16 20
+the arrow dest node:
+the dest coordinates: 13 20
+
+input arrows:
+the input arrow:
+The arrow description:
+delay: 0
+type of the arrow direct: true
+the arrow source node:
+the source coordinates: 15 20
+the arrow dest node:
+the dest coordinates: 16 20
+
+Activation function: linear
+
+The layer description:
+Num neurons: 1
+id layer =4
+the layer coordinates: 11 20
+the layer size: 30 40
+out arrows:
+the out arrow:
+The arrow description:
+delay: 0
+type of the arrow direct: true
+the arrow source node:
+the source coordinates: 11 20
+the arrow dest node:
+the dest coordinates: 12 20
+
+input arrows:
+the input arrow:
+The arrow description:
+delay: 1
+type of the arrow direct: false
+the arrow source node:
+the source coordinates: 13 20
+the arrow dest node:
+the dest coordinates: 11 20
+
+Activation function: linear
+
+The layer description:
+Num neurons: 1
+id layer =5
+the layer coordinates: 12 20
+the layer size: 30 40
+out arrows:
+the out arrow:
+The arrow description:
+delay: 0
+type of the arrow direct: true
+the arrow source node:
+the source coordinates: 12 20
+the arrow dest node:
+the dest coordinates: 13 20
+
+input arrows:
+the input arrow:
+The arrow description:
+delay: 0
+type of the arrow direct: true
+the arrow source node:
+the source coordinates: 11 20
+the arrow dest node:
+the dest coordinates: 12 20
+
+Activation function: linear
+
+The layer description:
+Num neurons: 1
+id layer =6
+the layer coordinates: 13 20
+the layer size: 30 40
+out arrows:
+the out arrow:
+The arrow description:
+delay: 1
+type of the arrow direct: false
+the arrow source node:
+the source coordinates: 13 20
+the arrow dest node:
+the dest coordinates: 11 20
+
+input arrows:
+the input arrow:
+The arrow description:
+delay: 0
+type of the arrow direct: true
+the arrow source node:
+the source coordinates: 12 20
+the arrow dest node:
+the dest coordinates: 13 20
+
+the input arrow:
+The arrow description:
+delay: 0
+type of the arrow direct: true
+the arrow source node:
+the source coordinates: 16 20
+the arrow dest node:
+the dest coordinates: 13 20
+
+Activation function: linear
+

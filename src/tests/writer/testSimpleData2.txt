@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <size neuronsNumber="5" time="2"/>
+    <time>
+        <neuron number="76.000"/>
+        <neuron number="76.000"/>
+        <neuron number="76.000"/>
+        <neuron number="76.000"/>
+        <neuron number="76.000"/>
+    </time>
+    <time>
+        <neuron number="76.000"/>
+        <neuron number="76.000"/>
+        <neuron number="76.000"/>
+        <neuron number="76.000"/>
+        <neuron number="76.000"/>
+    </time>
+</data>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model>
+<schema>
+<layer height="10" type="begin" width="10" x="10" y="10"/>
+<layer height="20" type="ordinary" width="20" x="20" y="20"/>
+<layer height="20" type="ordinary" width="20" x="20" y="20"/>
+<layer height="20" type="ordinary" width="20" x="20" y="20"/>
+<layer height="30" type="end" width="30" x="30" y="30"/>
+<connection destination="1" direct="true" source="0"/>
+<connection destination="2" direct="true" source="0"/>
+<connection destination="2" direct="true" source="1"/>
+<connection destination="3" direct="true" source="2"/>
+<connection destination="4" direct="true" source="3"/>
+<connection destination="3" direct="false" source="3"/>
+<connection destination="1" direct="false" source="3"/>
+</schema>
+<object>
+<layer functor="null" id="0" numNeurons="1" type="begin"/>
+<layer functor="linear" id="1" numNeurons="1" type="ordinary"/>
+<layer functor="linear" id="2" numNeurons="1" type="ordinary"/>
+<layer functor="linear" id="3" numNeurons="1" type="ordinary"/>
+<connection delay="0" destination="1" source="0">
+<weights>
+<row>
+<w value="0.0"/>
+</row>
+</weights>
+</connection>
+<connection delay="0" destination="2" source="0">
+<weights>
+<row>
+<w value="0.0"/>
+</row>
+</weights>
+</connection>
+<connection delay="0" destination="2" source="1">
+<weights>
+<row>
+<w value="0.0"/>
+</row>
+</weights>
+</connection>
+<connection delay="0" destination="3" source="2">
+<weights>
+<row>
+<w value="0.0"/>
+</row>
+</weights>
+</connection>
+<connection delay="0" destination="4" source="3">
+<weights>
+<row>
+<w value="0.0"/>
+</row>
+</weights>
+</connection>
+<connection delay="1" destination="3" source="3">
+<weights>
+<row>
+<w value="0.0"/>
+</row>
+</weights>
+</connection>
+<connection delay="1" destination="1" source="3">
+<weights>
+<row>
+<w value="0.0"/>
+</row>
+</weights>
+</connection>
+</object>
+</model>

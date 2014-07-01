@@ -1,0 +1,21 @@
+The arrow description:
+delay: 0
+type of the arrow direct: true
+the arrow source node:
+the source coordinates: 10 20
+the arrow dest node:
+the dest coordinates: 50 60
+The arrow description:
+delay: 0
+type of the arrow direct: true
+the arrow source node:
+the source coordinates: 10 20
+the arrow dest node:
+the dest coordinates: 50 60
+The arrow description:
+delay: 0
+type of the arrow direct: true
+the arrow source node:
+the source coordinates: 10 20
+the arrow dest node:
+the dest coordinates: 50 60
